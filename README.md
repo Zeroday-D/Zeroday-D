@@ -56,4 +56,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oppths&show_icons=true&locale=en" alt="oppths" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oppths&" alt="oppths" /></p>
