@@ -52,6 +52,11 @@
 
 ## **GitHub Estatísticas**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oppths&show_icons=true&locale=en&layout=compact&thema=transparan" alt="oppths" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=oppths&show_icons=true&locale=en" alt="oppths" /></p>
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
