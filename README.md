@@ -56,18 +56,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&theme=transparent&hide_langs_below=1&layout=compact" />  **|** 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" />
 
-
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
