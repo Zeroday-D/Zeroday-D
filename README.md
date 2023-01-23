@@ -39,7 +39,7 @@ I am a self taught FrontEnd and backend developer
 </a>
        
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" />
 </a>
 
 [website]: https://codedev.ga/
