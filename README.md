@@ -34,13 +34,9 @@ I am a self taught FrontEnd and backend developer
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&theme=transparent&hide_langs_below=1&layout=compact" />
-</a>
-       
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" />
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&theme=transparent&hide_langs_below=1&layout=compact" />     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" />
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
