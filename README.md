@@ -52,7 +52,8 @@
 
 ## **GitHub Estatísticas**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oppths&show_icons=true&locale=en&layout=compact" alt="oppths" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&theme=transparent&hide_langs_below=1" /> **<code> </code>**
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oppths&show_icons=true&locale=en" alt="oppths" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oppths&" alt="oppths" /></p>
