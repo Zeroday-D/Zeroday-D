@@ -28,9 +28,7 @@ I am a self taught FrontEnd and backend developer
 
 
 ## **GitHub Estatísticas**
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent" alt="Anurag's github stats" /> 
-| 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&layout=compact&theme=transparent" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent" alt="Anurag's github stats" />   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&layout=compact&theme=transparent" /> 
 
 
 [website]: https://codedev.ga/
