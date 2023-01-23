@@ -1,10 +1,8 @@
-# Hi there 👋 , I'm Bagus!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+# Hi there 👋 , I'm Oppths!
 
 ### Tools:
 <p>
-@@ -13,10 +13,10 @@ Currently I am open to any opportunity especially in IT as a Mobile Developer an
+@@ -13,10 +13,10 @@ Currently I am open to any opportunity especially in IT as a Web Developer an
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
@@ -22,7 +20,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Oppths&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
 </p>
 ### Let's connect!
