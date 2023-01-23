@@ -21,6 +21,6 @@ I am a self taught FrontEnd and backend developer
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&langs_count=8&theme=buefy&hide_border=true" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true$theme=radical" alt="Anurag's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&langs_count=8&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
