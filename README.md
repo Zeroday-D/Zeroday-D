@@ -1,4 +1,4 @@
-# Hi, I'm Oppths 👋🏾 ![image](https://user-images.githubusercontent.com/112385806/214118670-e7a9c527-9071-46fb-a146-2a779bc33b3c.png)
+# Hi, I'm Oppths 👋🏾 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
