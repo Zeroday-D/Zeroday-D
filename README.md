@@ -24,12 +24,15 @@ I am a self taught FrontEnd and backend developer
 <code><a href="#"><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>    
 
 
-
-
-
 ## **GitHub Estatísticas**
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent" alt="Anurag's github stats" />   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&layout=compact&theme=transparent" /> 
 
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&theme=transparent&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=transparent&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
