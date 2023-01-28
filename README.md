@@ -53,10 +53,10 @@
 ## **GitHub**
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oppths&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeroday-D&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="#">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oppths&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeroday-D&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
